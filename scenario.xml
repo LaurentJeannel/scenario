@@ -1,0 +1,9 @@
+  
+    <item>scénario maison<tag>data.Scenario="Mathilde allume la lumière du bureau|192.168.0.15|Mathilde allume la veilleuse du bureau|192.168.0.15"</tag></item>
+
+	<item>scénario maison suivant<tag>data.Scenario="Mathilde éteins la lampe du bureau|192.168.0.17|Mathilde allume la smart led|192.168.0.15"</tag></item>
+  
+
+  <item>je veux regarder un film<tag>data.Scenario="Mathilde éteins la lumière du bureau|192.168.0.11|Mathilde lance le logiciel kodi|192.168.0.11|Mathilde Ambilight|192.168.0.11|Mathilde active la télécommande|192.168.0.11"</tag></item>
+ 
+
